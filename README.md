@@ -7,3 +7,4 @@ The article of this project can be read at: https://medium.com/@denyse.tlx/inves
 This repository contains the following files:
 1. Hotel Bookings.twb, a Tableau workbook containing our project's data visualisations done for our Exploratory Data Analysis
 2. Hotel_bookings.csv, a csv file containing the hotel bookings dataset used for our project, provided by Jesse Mostipak on Kaggle. More information about the datset can be found at https://www.kaggle.com/jessemostipak/hotel-booking-demand
+3. TLG_Classification.ipynb, a Juypter Notebook containing the cmoplete code for our model
